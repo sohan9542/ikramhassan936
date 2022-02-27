@@ -8,7 +8,7 @@ const About = () => {
           <h1 className="text-font text-2xl font-medium pb-8 w-40  text-center border-b-4 border-sr">
             ABOUT
           </h1>
-          <img src={pixel} alt="" />
+         
           <p className=" font-medium text-font text-lg pt-4 w-96">
             What can a “full-stack web developer” do, you ask?
           </p>

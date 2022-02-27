@@ -10,7 +10,7 @@ const Footer = () => {
         window.scrollTo(0,0)
     }
   return (
-    <div style={{height:"70vh"}} className="relative w-full overflow-hidden">
+    <div style={{height:"70vh"}} className="relative w-full overflow-hidden mt-72 lg:mt-0">
       <div
         className=" absolute bottom-0  left-0 flex items-center justify-start pt-10 flex-col"
         style={{

@@ -5,7 +5,7 @@ import project2 from "../photos/project2.jpeg";
 
 const Projects = () => {
   return (
-    <div className="mt-32" style={{height:"100vh"}}>
+    <div className="mt-32" style={{height:"50vh"}}>
       <div className="container">
         <div className=" w-full flex items-center flex-col justify-center">
           <h1 className="text-font text-2xl font-medium pb-8 w-40  text-center border-b-4 border-sr">
